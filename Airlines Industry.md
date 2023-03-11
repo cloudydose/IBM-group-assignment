@@ -8,8 +8,8 @@ Findings
 	Primary storage capacity
 	Secondary storage
 	Communications and networking technologies
-	Security 
-	Software 
+	Security
+	Software
 Discussion
 Conclusion
 Reference
@@ -18,19 +18,21 @@ Reference
 
 ## Introduction
 
+// introduction of airlines industry
+
 ---
 
 ## Findings
 
 ### Input technologies 
 
-An input device is a hardware component that is used to enter data or commands into a computer or other electronic device. The input technologies that the organization will need in the airlines industry include kiosks check-in and handheld devices.
+Input technologies are crucial components that allow for the entry of data or commands into electronic devices or computers. In the context of the airline industry, two important input technologies are self-service check-in kiosks and handheld devices.
 
-First, a kiosk check-in is a self-service process available at some airports that allows passengers to quickly and easily check themselves in using a touch-screen kiosk. Its features include self-service flight check-in, boarding pass printing, baggage inspection and baggage tag printing to assist with air travel. One of the benefits is a faster check-in process at the airport. Passengers can now check in faster through the kiosk, thus reducing queue times.
+Kiosk check-in is a self-service technology available at select airports that enables passengers to quickly and easily check themselves in using a touch-screen kiosk. Its functionalities include self-service flight check-in, printing of boarding passes, and printing of baggage tags for convenient baggage inspection. One of the main advantages of this technology is a faster check-in process, which helps reduce queue times for passengers. Furthermore, the utilization of kiosk check-in technology in the airline industry can lead to a reduction in operational costs as it enables the organization to operate with fewer on-site staff. Kiosks are capable of performing various automated tasks, freeing up employees' time to handle more complex challenges such as customer service.
 
 ![[kiosk.jpg|300]]
 
-Second, handheld devices are designed to be portable and easy to use. It can also keep airline passengers constantly connected and informed. One of the latest advancements in input technologies is the integration of biometric sensors, such as facial recognition or fingerprints, into mobile devices used by gate agents. This enables them to log in to their devices quickly and efficiently on their way to the gate. Another benefit of this technology is that it can replace stand-alone scanning devices used for baggage and cargo checks, as well as provide access to airline lounges and scan boarding passes. This means that mobile devices can serve multiple functions and streamline the check-in process for both passengers and staff.
+Second, handheld devices are designed to be portable and easy to use. It can also keep airline passengers constantly connected and informed. In the airline industry, the ground crew is responsible for the maintenance and supply of aircraft. To facilitate their task management, a handheld device is provided. The device allows ramp managers to assign tasks to ramp crews by sending an alert to their watch. The crew can confirm the assignment with one touch and mark the task as complete with another touch. In addition, two-way communication is available between ramp crews and baggage handlers, which does not require the use of hands.
 
 ![[handheld.jpg|300]]
 
@@ -51,6 +53,14 @@ The development of security is necessary, especially at airports, it is importan
 Firstly, X-ray machines are compulsory, to save more time, an x-ray system is suggested instead of opening the baggage, it can detect the item by using radiation, mostly used to detect if any harmful item is inside. The X-rays are detected by a monitor after they have passed through the object. The lower-energy X-rays are then blocked by a filter that receives the X-rays from this device. One more high-energy detector was struck by the leftover X-rays. To more accurately depict low-energy objects, such as the majority of organic materials, a computer circuit compares the pick-ups of the two detectors. 
 
 After that, the following are metal detectors and body scanners, these two are similar, both are used to detect and check if any suspicious passenger carries any hidden object which does not want to be found, including weapon and illegal item.
+
+---
+
+## Discussion
+
+这个研究中这个report提到了
+
+---
 
 ## References
 
