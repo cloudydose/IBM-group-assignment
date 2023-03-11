@@ -58,13 +58,13 @@ After that, the following are metal detectors and body scanners, these two are s
 
 ## Discussion
 
-This report introduces the input technologies that can be considered in the organization and their benefits. The report mentioned that input technology is a vital part of enhancing the passenger experience and reducing operating costs in the aviation industry. The implementation of input technologies such as self-service check-in kiosks and handheld devices can help airlines meet these expectations.
+This report presents input technologies that can be considered for implementation in the aviation industry, highlighting their benefits in enhancing the passenger experience and reducing operating costs. Self-service check-in kiosks and handheld devices are two examples of input technologies that airlines can adopt to meet these expectations.
 
-The adoption of self-service kiosk check-in technology has successfully reduced queue times and increased passenger satisfaction in the airline industry. For example, a study by SITA, a leading technology provider to the air transport industry, found that the average boarding time for self-service kiosk users was around three times faster than traditional boarding methods. In addition, the table shows that passengers using self-service check-in technology are more satisfied, with 85% of passengers finding the experience to be easy to use.
+The adoption of self-service kiosk check-in technology has been successful in reducing queue times and increasing passenger satisfaction. SITA, a prominent technology provider to the air transport industry, conducted a study that found the average boarding time for self-service kiosk users to be approximately three times faster than traditional methods. Moreover, a high level of satisfaction was reported by passengers using self-service check-in technology, with 85% of them finding it easy to use, as demonstrated in the table.
 
 ![[time compare.jpg|300]]
 
-Therefore, this report recommends that airlines continue to invest and explore the potential of input technologies to enhance service delivery and reduce operating costs.
+Thus, this report recommends that airlines continue to invest in and explore the potential of input technologies to enhance service delivery and reduce operating costs in the aviation industry.
 
 [(PDF) Study of Airport Self-service Technology within Experimental Research of Check-in Techniques Case Study and Concept (researchgate.net)](https://www.researchgate.net/publication/46093545_Study_of_Airport_Self-service_Technology_within_Experimental_Research_of_Check-in_Techniques_Case_Study_and_Concept)
 [2.DVYWJ.pdf (jilindaxuexuebao.com)](https://jilindaxuexuebao.com/dashboard/uploads/2.DVYWJ.pdf)
