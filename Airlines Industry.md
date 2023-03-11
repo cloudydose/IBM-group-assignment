@@ -44,6 +44,14 @@ Although the travelers or the passengers can refer to the FID system to get the 
 
 Besides, other than the public output devices, there is an output device which is normally located at check-in counter, which is boarding pass printer, it is also an output device. A boarding pass printer enables the airline to print out boarding passes to the passenger, it gives the passenger permission to access the restricted area in an airport. Other than that, the boarding pass contained the date of flight, time of departure and arrival, and also flight number, all the important information is included inside.
 
+### Security
+
+The development of security is necessary, especially at airports, it is important to prevent sabotage, terrorism, actions that may be harmful to life and property or bombing. To protect the safety of passengers and airlines, there are few securities systems that should be installed in an airport. 
+
+Firstly, X-ray machines are compulsory, to save more time, an x-ray system is suggested instead of opening the baggage, it can detect the item by using radiation, mostly used to detect if any harmful item is inside. The X-rays are detected by a monitor after they have passed through the object. The lower-energy X-rays are then blocked by a filter that receives the X-rays from this device. One more high-energy detector was struck by the leftover X-rays. To more accurately depict low-energy objects, such as the majority of organic materials, a computer circuit compares the pick-ups of the two detectors. 
+
+After that, the following are metal detectors and body scanners, these two are similar, both are used to detect and check if any suspicious passenger carries any hidden object which does not want to be found, including weapon and illegal item.
+
 ## References
 
 Input device: 
